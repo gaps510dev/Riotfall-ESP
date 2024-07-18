@@ -1,2 +1,2 @@
 # Riotfall Scripts
-A collection of scripts for a ROBLOX game known as Riotfall.
+A utility to let you see more than usual. Does not violate any TOS as this is for research purposes.
